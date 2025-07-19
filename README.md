@@ -1,5 +1,5 @@
 # ComfyUI-DeanLogic
-Switch image input or output path with boolean conditions
+Nodes to switch image input or output path with boolean conditions
 
 ![Nodes](dlnodes.png)
 
